@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="image">
+    <file>error-sign.png</file>
+    <file>sucess-sign.png</file>
+    <file>warning-sign.png</file>
+    <file>warning-sign-vector-graphics-royalty-free-hazard-symbol-png-favpng-si3c8sbtMJ4TPJz2nUtvTZZpQ.jpg</file>
+    <file>basic-rgb-156262165.jpg</file>
+    <file>pngtree-check-mark-icon-design-template-vector-isolated-png-image_711433.jpg</file>
+    <file>logo_white2.png</file>
+    <file>arrow_b.png</file>
+    <file>loading1.gif</file>
+    <file>logo_black2.png</file>
+    <file>download.ico</file>
+    <file>download.png</file>
+    <file>3d-abstract-wave-pattern-background.jpg</file>
+    <file>logo_black.png</file>
+    <file>logo.png</file>
+    <file>logo.png</file>
+    <file>bg.jpg</file>
+  </qresource>
+</RCC>
